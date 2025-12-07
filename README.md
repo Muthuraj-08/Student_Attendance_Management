@@ -46,4 +46,7 @@ Percentages are calculated automatically.
 
 ---
 
+## Sample Output
+
+<img width="928" height="995" alt="Screenshot 2025-12-07 195149" src="https://github.com/user-attachments/assets/5e547ae8-c77a-459a-8430-b68b2d7ee22e" />
 
